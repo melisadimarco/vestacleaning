@@ -2859,10 +2859,14 @@ input, select, textarea {
 
 			.tiles article:nth-child(6n - 5):before {
 				background-color: #0097b2;
+
+				
 			}
 
 			.tiles article:nth-child(6n - 4):before {
 				background-color: #293b7a;
+
+
 			}
 
 			.tiles article:nth-child(6n - 3):before {
@@ -3509,7 +3513,8 @@ input, select, textarea {
 			}
 
 				#banner > .inner header > :first-child {
-					width: 80%;
+					width: 100%;
+				text-align: center;
 				}
 
 					#banner > .inner header > :first-child:after {
